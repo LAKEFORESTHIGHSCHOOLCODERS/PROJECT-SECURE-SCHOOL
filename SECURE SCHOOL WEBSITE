@@ -1,0 +1,4 @@
+if client = input('NEW USER')
+then print("ENTER YOUR NAME")
+input()
+then print input 
